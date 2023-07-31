@@ -1,0 +1,7 @@
+C:\Curso de C# - Impacta\ExemploAppConsole\ExemploAppConsole\bin\Debug\ExemploAppConsole.exe.config
+C:\Curso de C# - Impacta\ExemploAppConsole\ExemploAppConsole\bin\Debug\ExemploAppConsole.exe
+C:\Curso de C# - Impacta\ExemploAppConsole\ExemploAppConsole\bin\Debug\ExemploAppConsole.pdb
+C:\Curso de C# - Impacta\ExemploAppConsole\ExemploAppConsole\obj\Debug\ExemploAppConsole.csprojAssemblyReference.cache
+C:\Curso de C# - Impacta\ExemploAppConsole\ExemploAppConsole\obj\Debug\ExemploAppConsole.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta\ExemploAppConsole\ExemploAppConsole\obj\Debug\ExemploAppConsole.exe
+C:\Curso de C# - Impacta\ExemploAppConsole\ExemploAppConsole\obj\Debug\ExemploAppConsole.pdb

@@ -1,0 +1,6 @@
+C:\Curso de C# - Impacta\Exercicio1CriandoALinhaComNomeEmaileTelefone\Exercicio1CriandoALinhaComNomeEmaileTelefone\bin\Debug\Exercicio1CriandoALinhaComNomeEmaileTelefone.exe.config
+C:\Curso de C# - Impacta\Exercicio1CriandoALinhaComNomeEmaileTelefone\Exercicio1CriandoALinhaComNomeEmaileTelefone\bin\Debug\Exercicio1CriandoALinhaComNomeEmaileTelefone.exe
+C:\Curso de C# - Impacta\Exercicio1CriandoALinhaComNomeEmaileTelefone\Exercicio1CriandoALinhaComNomeEmaileTelefone\bin\Debug\Exercicio1CriandoALinhaComNomeEmaileTelefone.pdb
+C:\Curso de C# - Impacta\Exercicio1CriandoALinhaComNomeEmaileTelefone\Exercicio1CriandoALinhaComNomeEmaileTelefone\obj\Debug\Exercicio1CriandoALinhaComNomeEmaileTelefone.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta\Exercicio1CriandoALinhaComNomeEmaileTelefone\Exercicio1CriandoALinhaComNomeEmaileTelefone\obj\Debug\Exercicio1CriandoALinhaComNomeEmaileTelefone.exe
+C:\Curso de C# - Impacta\Exercicio1CriandoALinhaComNomeEmaileTelefone\Exercicio1CriandoALinhaComNomeEmaileTelefone\obj\Debug\Exercicio1CriandoALinhaComNomeEmaileTelefone.pdb

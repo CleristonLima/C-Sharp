@@ -1,0 +1,9 @@
+C:\Curso de C# - Impacta\Empresa.DB\bin\Debug\Empresa.DB.dll
+C:\Curso de C# - Impacta\Empresa.DB\bin\Debug\Empresa.DB.pdb
+C:\Curso de C# - Impacta\Empresa.DB\bin\Debug\Empresa.Models.dll
+C:\Curso de C# - Impacta\Empresa.DB\bin\Debug\Empresa.Models.pdb
+C:\Curso de C# - Impacta\Empresa.DB\obj\Debug\Empresa.DB.csprojAssemblyReference.cache
+C:\Curso de C# - Impacta\Empresa.DB\obj\Debug\Empresa.DB.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta\Empresa.DB\obj\Debug\Empresa.DB.csproj.CopyComplete
+C:\Curso de C# - Impacta\Empresa.DB\obj\Debug\Empresa.DB.dll
+C:\Curso de C# - Impacta\Empresa.DB\obj\Debug\Empresa.DB.pdb

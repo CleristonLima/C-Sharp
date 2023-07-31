@@ -1,0 +1,6 @@
+C:\Curso de C# - Impacta\Empresa.Models\bin\Debug\Empresa.Models.dll
+C:\Curso de C# - Impacta\Empresa.Models\bin\Debug\Empresa.Models.pdb
+C:\Curso de C# - Impacta\Empresa.Models\obj\Debug\Empresa.Models.csprojAssemblyReference.cache
+C:\Curso de C# - Impacta\Empresa.Models\obj\Debug\Empresa.Models.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta\Empresa.Models\obj\Debug\Empresa.Models.dll
+C:\Curso de C# - Impacta\Empresa.Models\obj\Debug\Empresa.Models.pdb

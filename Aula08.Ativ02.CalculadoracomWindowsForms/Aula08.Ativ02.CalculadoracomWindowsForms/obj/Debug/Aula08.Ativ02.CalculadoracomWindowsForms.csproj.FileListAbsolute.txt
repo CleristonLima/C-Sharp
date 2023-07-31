@@ -1,0 +1,10 @@
+C:\Curso de C# - Impacta\Aula08.Ativ02.CalculadoracomWindowsForms\Aula08.Ativ02.CalculadoracomWindowsForms\bin\Debug\Aula08.Ativ02.CalculadoracomWindowsForms.exe.config
+C:\Curso de C# - Impacta\Aula08.Ativ02.CalculadoracomWindowsForms\Aula08.Ativ02.CalculadoracomWindowsForms\bin\Debug\Aula08.Ativ02.CalculadoracomWindowsForms.exe
+C:\Curso de C# - Impacta\Aula08.Ativ02.CalculadoracomWindowsForms\Aula08.Ativ02.CalculadoracomWindowsForms\bin\Debug\Aula08.Ativ02.CalculadoracomWindowsForms.pdb
+C:\Curso de C# - Impacta\Aula08.Ativ02.CalculadoracomWindowsForms\Aula08.Ativ02.CalculadoracomWindowsForms\obj\Debug\Aula08.Ativ02.CalculadoracomWindowsForms.csprojAssemblyReference.cache
+C:\Curso de C# - Impacta\Aula08.Ativ02.CalculadoracomWindowsForms\Aula08.Ativ02.CalculadoracomWindowsForms\obj\Debug\Aula08.Ativ02.CalculadoracomWindowsForms.Form1.resources
+C:\Curso de C# - Impacta\Aula08.Ativ02.CalculadoracomWindowsForms\Aula08.Ativ02.CalculadoracomWindowsForms\obj\Debug\Aula08.Ativ02.CalculadoracomWindowsForms.Properties.Resources.resources
+C:\Curso de C# - Impacta\Aula08.Ativ02.CalculadoracomWindowsForms\Aula08.Ativ02.CalculadoracomWindowsForms\obj\Debug\Aula08.Ativ02.CalculadoracomWindowsForms.csproj.GenerateResource.cache
+C:\Curso de C# - Impacta\Aula08.Ativ02.CalculadoracomWindowsForms\Aula08.Ativ02.CalculadoracomWindowsForms\obj\Debug\Aula08.Ativ02.CalculadoracomWindowsForms.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta\Aula08.Ativ02.CalculadoracomWindowsForms\Aula08.Ativ02.CalculadoracomWindowsForms\obj\Debug\Aula08.Ativ02.CalculadoracomWindowsForms.exe
+C:\Curso de C# - Impacta\Aula08.Ativ02.CalculadoracomWindowsForms\Aula08.Ativ02.CalculadoracomWindowsForms\obj\Debug\Aula08.Ativ02.CalculadoracomWindowsForms.pdb

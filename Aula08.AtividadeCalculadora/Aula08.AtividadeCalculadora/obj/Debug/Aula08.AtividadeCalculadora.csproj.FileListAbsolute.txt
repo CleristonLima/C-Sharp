@@ -1,0 +1,10 @@
+C:\Curso de C# - Impacta\Aula08.AtividadeCalculadora\Aula08.AtividadeCalculadora\bin\Debug\Aula08.AtividadeCalculadora.exe.config
+C:\Curso de C# - Impacta\Aula08.AtividadeCalculadora\Aula08.AtividadeCalculadora\bin\Debug\Aula08.AtividadeCalculadora.exe
+C:\Curso de C# - Impacta\Aula08.AtividadeCalculadora\Aula08.AtividadeCalculadora\bin\Debug\Aula08.AtividadeCalculadora.pdb
+C:\Curso de C# - Impacta\Aula08.AtividadeCalculadora\Aula08.AtividadeCalculadora\obj\Debug\Aula08.AtividadeCalculadora.csprojAssemblyReference.cache
+C:\Curso de C# - Impacta\Aula08.AtividadeCalculadora\Aula08.AtividadeCalculadora\obj\Debug\Aula08.AtividadeCalculadora.Form1.resources
+C:\Curso de C# - Impacta\Aula08.AtividadeCalculadora\Aula08.AtividadeCalculadora\obj\Debug\Aula08.AtividadeCalculadora.Properties.Resources.resources
+C:\Curso de C# - Impacta\Aula08.AtividadeCalculadora\Aula08.AtividadeCalculadora\obj\Debug\Aula08.AtividadeCalculadora.csproj.GenerateResource.cache
+C:\Curso de C# - Impacta\Aula08.AtividadeCalculadora\Aula08.AtividadeCalculadora\obj\Debug\Aula08.AtividadeCalculadora.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta\Aula08.AtividadeCalculadora\Aula08.AtividadeCalculadora\obj\Debug\Aula08.AtividadeCalculadora.exe
+C:\Curso de C# - Impacta\Aula08.AtividadeCalculadora\Aula08.AtividadeCalculadora\obj\Debug\Aula08.AtividadeCalculadora.pdb

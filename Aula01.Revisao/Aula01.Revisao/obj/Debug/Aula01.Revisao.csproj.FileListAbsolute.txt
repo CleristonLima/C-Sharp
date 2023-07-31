@@ -1,0 +1,7 @@
+C:\Curso de C# - Impacta - Modulo II\Aula01.Revisao\Aula01.Revisao\bin\Debug\Aula01.Revisao.exe.config
+C:\Curso de C# - Impacta - Modulo II\Aula01.Revisao\Aula01.Revisao\bin\Debug\Aula01.Revisao.exe
+C:\Curso de C# - Impacta - Modulo II\Aula01.Revisao\Aula01.Revisao\bin\Debug\Aula01.Revisao.pdb
+C:\Curso de C# - Impacta - Modulo II\Aula01.Revisao\Aula01.Revisao\obj\Debug\Aula01.Revisao.csprojAssemblyReference.cache
+C:\Curso de C# - Impacta - Modulo II\Aula01.Revisao\Aula01.Revisao\obj\Debug\Aula01.Revisao.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta - Modulo II\Aula01.Revisao\Aula01.Revisao\obj\Debug\Aula01.Revisao.exe
+C:\Curso de C# - Impacta - Modulo II\Aula01.Revisao\Aula01.Revisao\obj\Debug\Aula01.Revisao.pdb

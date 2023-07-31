@@ -1,0 +1,10 @@
+C:\Curso de C# - Impacta\Aula16.CRUD\Aula16.CRUD\bin\Debug\Aula16.CRUD.exe.config
+C:\Curso de C# - Impacta\Aula16.CRUD\Aula16.CRUD\bin\Debug\Aula16.CRUD.exe
+C:\Curso de C# - Impacta\Aula16.CRUD\Aula16.CRUD\bin\Debug\Aula16.CRUD.pdb
+C:\Curso de C# - Impacta\Aula16.CRUD\Aula16.CRUD\obj\Debug\Aula16.CRUD.csprojAssemblyReference.cache
+C:\Curso de C# - Impacta\Aula16.CRUD\Aula16.CRUD\obj\Debug\Aula16.CRUD.Form1.resources
+C:\Curso de C# - Impacta\Aula16.CRUD\Aula16.CRUD\obj\Debug\Aula16.CRUD.Properties.Resources.resources
+C:\Curso de C# - Impacta\Aula16.CRUD\Aula16.CRUD\obj\Debug\Aula16.CRUD.csproj.GenerateResource.cache
+C:\Curso de C# - Impacta\Aula16.CRUD\Aula16.CRUD\obj\Debug\Aula16.CRUD.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta\Aula16.CRUD\Aula16.CRUD\obj\Debug\Aula16.CRUD.exe
+C:\Curso de C# - Impacta\Aula16.CRUD\Aula16.CRUD\obj\Debug\Aula16.CRUD.pdb

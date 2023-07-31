@@ -1,0 +1,6 @@
+C:\Curso de C# - Impacta\Aula06.Switch\Aula06.Switch\bin\Debug\Aula06.Switch.exe.config
+C:\Curso de C# - Impacta\Aula06.Switch\Aula06.Switch\bin\Debug\Aula06.Switch.exe
+C:\Curso de C# - Impacta\Aula06.Switch\Aula06.Switch\bin\Debug\Aula06.Switch.pdb
+C:\Curso de C# - Impacta\Aula06.Switch\Aula06.Switch\obj\Debug\Aula06.Switch.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta\Aula06.Switch\Aula06.Switch\obj\Debug\Aula06.Switch.exe
+C:\Curso de C# - Impacta\Aula06.Switch\Aula06.Switch\obj\Debug\Aula06.Switch.pdb

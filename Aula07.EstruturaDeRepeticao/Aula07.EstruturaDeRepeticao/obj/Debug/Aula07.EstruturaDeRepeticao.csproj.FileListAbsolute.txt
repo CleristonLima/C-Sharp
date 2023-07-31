@@ -1,0 +1,7 @@
+C:\Curso de C# - Impacta\Aula07.EstruturaDeRepeticao\Aula07.EstruturaDeRepeticao\bin\Debug\Aula07.EstruturaDeRepeticao.exe.config
+C:\Curso de C# - Impacta\Aula07.EstruturaDeRepeticao\Aula07.EstruturaDeRepeticao\bin\Debug\Aula07.EstruturaDeRepeticao.exe
+C:\Curso de C# - Impacta\Aula07.EstruturaDeRepeticao\Aula07.EstruturaDeRepeticao\bin\Debug\Aula07.EstruturaDeRepeticao.pdb
+C:\Curso de C# - Impacta\Aula07.EstruturaDeRepeticao\Aula07.EstruturaDeRepeticao\obj\Debug\Aula07.EstruturaDeRepeticao.csprojAssemblyReference.cache
+C:\Curso de C# - Impacta\Aula07.EstruturaDeRepeticao\Aula07.EstruturaDeRepeticao\obj\Debug\Aula07.EstruturaDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta\Aula07.EstruturaDeRepeticao\Aula07.EstruturaDeRepeticao\obj\Debug\Aula07.EstruturaDeRepeticao.exe
+C:\Curso de C# - Impacta\Aula07.EstruturaDeRepeticao\Aula07.EstruturaDeRepeticao\obj\Debug\Aula07.EstruturaDeRepeticao.pdb

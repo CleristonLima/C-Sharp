@@ -1,0 +1,7 @@
+C:\Curso de C# - Impacta\Aula06.IF\Aula06.IF\bin\Debug\Aula06.IF.exe.config
+C:\Curso de C# - Impacta\Aula06.IF\Aula06.IF\bin\Debug\Aula06.IF.exe
+C:\Curso de C# - Impacta\Aula06.IF\Aula06.IF\bin\Debug\Aula06.IF.pdb
+C:\Curso de C# - Impacta\Aula06.IF\Aula06.IF\obj\Debug\Aula06.IF.csprojAssemblyReference.cache
+C:\Curso de C# - Impacta\Aula06.IF\Aula06.IF\obj\Debug\Aula06.IF.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta\Aula06.IF\Aula06.IF\obj\Debug\Aula06.IF.exe
+C:\Curso de C# - Impacta\Aula06.IF\Aula06.IF\obj\Debug\Aula06.IF.pdb

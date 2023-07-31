@@ -1,0 +1,7 @@
+C:\Curso de C# - Impacta\Aula05.TiposPrimitivos\Aula05.TiposPrimitivos\bin\Debug\Aula05.TiposPrimitivos.exe.config
+C:\Curso de C# - Impacta\Aula05.TiposPrimitivos\Aula05.TiposPrimitivos\bin\Debug\Aula05.TiposPrimitivos.exe
+C:\Curso de C# - Impacta\Aula05.TiposPrimitivos\Aula05.TiposPrimitivos\bin\Debug\Aula05.TiposPrimitivos.pdb
+C:\Curso de C# - Impacta\Aula05.TiposPrimitivos\Aula05.TiposPrimitivos\obj\Debug\Aula05.TiposPrimitivos.csprojAssemblyReference.cache
+C:\Curso de C# - Impacta\Aula05.TiposPrimitivos\Aula05.TiposPrimitivos\obj\Debug\Aula05.TiposPrimitivos.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta\Aula05.TiposPrimitivos\Aula05.TiposPrimitivos\obj\Debug\Aula05.TiposPrimitivos.exe
+C:\Curso de C# - Impacta\Aula05.TiposPrimitivos\Aula05.TiposPrimitivos\obj\Debug\Aula05.TiposPrimitivos.pdb

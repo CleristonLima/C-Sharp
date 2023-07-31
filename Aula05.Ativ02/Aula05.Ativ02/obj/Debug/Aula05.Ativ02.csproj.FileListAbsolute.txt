@@ -1,0 +1,7 @@
+C:\Curso de C# - Impacta\Aula05.Ativ02\Aula05.Ativ02\bin\Debug\Aula05.Ativ02.exe.config
+C:\Curso de C# - Impacta\Aula05.Ativ02\Aula05.Ativ02\bin\Debug\Aula05.Ativ02.exe
+C:\Curso de C# - Impacta\Aula05.Ativ02\Aula05.Ativ02\bin\Debug\Aula05.Ativ02.pdb
+C:\Curso de C# - Impacta\Aula05.Ativ02\Aula05.Ativ02\obj\Debug\Aula05.Ativ02.csprojAssemblyReference.cache
+C:\Curso de C# - Impacta\Aula05.Ativ02\Aula05.Ativ02\obj\Debug\Aula05.Ativ02.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta\Aula05.Ativ02\Aula05.Ativ02\obj\Debug\Aula05.Ativ02.exe
+C:\Curso de C# - Impacta\Aula05.Ativ02\Aula05.Ativ02\obj\Debug\Aula05.Ativ02.pdb

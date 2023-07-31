@@ -1,0 +1,10 @@
+C:\Curso de C# - Impacta\Aula13.Heranca\Aula13.Heranca\bin\Debug\Aula13.Heranca.exe.config
+C:\Curso de C# - Impacta\Aula13.Heranca\Aula13.Heranca\bin\Debug\Aula13.Heranca.exe
+C:\Curso de C# - Impacta\Aula13.Heranca\Aula13.Heranca\bin\Debug\Aula13.Heranca.pdb
+C:\Curso de C# - Impacta\Aula13.Heranca\Aula13.Heranca\obj\Debug\Aula13.Heranca.csprojAssemblyReference.cache
+C:\Curso de C# - Impacta\Aula13.Heranca\Aula13.Heranca\obj\Debug\Aula13.Heranca.Form1.resources
+C:\Curso de C# - Impacta\Aula13.Heranca\Aula13.Heranca\obj\Debug\Aula13.Heranca.Properties.Resources.resources
+C:\Curso de C# - Impacta\Aula13.Heranca\Aula13.Heranca\obj\Debug\Aula13.Heranca.csproj.GenerateResource.cache
+C:\Curso de C# - Impacta\Aula13.Heranca\Aula13.Heranca\obj\Debug\Aula13.Heranca.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta\Aula13.Heranca\Aula13.Heranca\obj\Debug\Aula13.Heranca.exe
+C:\Curso de C# - Impacta\Aula13.Heranca\Aula13.Heranca\obj\Debug\Aula13.Heranca.pdb

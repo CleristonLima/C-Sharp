@@ -1,0 +1,10 @@
+C:\Curso de C# - Impacta\Aula14.Exception\Aula14.Exception\bin\Debug\Aula14.Exception.exe.config
+C:\Curso de C# - Impacta\Aula14.Exception\Aula14.Exception\bin\Debug\Aula14.Exception.exe
+C:\Curso de C# - Impacta\Aula14.Exception\Aula14.Exception\bin\Debug\Aula14.Exception.pdb
+C:\Curso de C# - Impacta\Aula14.Exception\Aula14.Exception\obj\Debug\Aula14.Exception.csprojAssemblyReference.cache
+C:\Curso de C# - Impacta\Aula14.Exception\Aula14.Exception\obj\Debug\Aula14.Exception.Form1.resources
+C:\Curso de C# - Impacta\Aula14.Exception\Aula14.Exception\obj\Debug\Aula14.Exception.Properties.Resources.resources
+C:\Curso de C# - Impacta\Aula14.Exception\Aula14.Exception\obj\Debug\Aula14.Exception.csproj.GenerateResource.cache
+C:\Curso de C# - Impacta\Aula14.Exception\Aula14.Exception\obj\Debug\Aula14.Exception.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta\Aula14.Exception\Aula14.Exception\obj\Debug\Aula14.Exception.exe
+C:\Curso de C# - Impacta\Aula14.Exception\Aula14.Exception\obj\Debug\Aula14.Exception.pdb

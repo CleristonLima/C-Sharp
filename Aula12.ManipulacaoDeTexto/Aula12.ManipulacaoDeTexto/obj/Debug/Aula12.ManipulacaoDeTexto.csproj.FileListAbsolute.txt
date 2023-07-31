@@ -1,0 +1,7 @@
+C:\Curso de C# - Impacta\Aula12.ManipulacaoDeTexto\Aula12.ManipulacaoDeTexto\bin\Debug\Aula12.ManipulacaoDeTexto.exe.config
+C:\Curso de C# - Impacta\Aula12.ManipulacaoDeTexto\Aula12.ManipulacaoDeTexto\bin\Debug\Aula12.ManipulacaoDeTexto.exe
+C:\Curso de C# - Impacta\Aula12.ManipulacaoDeTexto\Aula12.ManipulacaoDeTexto\bin\Debug\Aula12.ManipulacaoDeTexto.pdb
+C:\Curso de C# - Impacta\Aula12.ManipulacaoDeTexto\Aula12.ManipulacaoDeTexto\obj\Debug\Aula12.ManipulacaoDeTexto.csprojAssemblyReference.cache
+C:\Curso de C# - Impacta\Aula12.ManipulacaoDeTexto\Aula12.ManipulacaoDeTexto\obj\Debug\Aula12.ManipulacaoDeTexto.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta\Aula12.ManipulacaoDeTexto\Aula12.ManipulacaoDeTexto\obj\Debug\Aula12.ManipulacaoDeTexto.exe
+C:\Curso de C# - Impacta\Aula12.ManipulacaoDeTexto\Aula12.ManipulacaoDeTexto\obj\Debug\Aula12.ManipulacaoDeTexto.pdb

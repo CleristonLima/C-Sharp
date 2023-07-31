@@ -1,0 +1,7 @@
+C:\Curso de C# - Impacta\Aula04.Atividade01\Aula04.Atividade01\bin\Debug\Aula04.Atividade01.exe.config
+C:\Curso de C# - Impacta\Aula04.Atividade01\Aula04.Atividade01\bin\Debug\Aula04.Atividade01.exe
+C:\Curso de C# - Impacta\Aula04.Atividade01\Aula04.Atividade01\bin\Debug\Aula04.Atividade01.pdb
+C:\Curso de C# - Impacta\Aula04.Atividade01\Aula04.Atividade01\obj\Debug\Aula04.Atividade01.csprojAssemblyReference.cache
+C:\Curso de C# - Impacta\Aula04.Atividade01\Aula04.Atividade01\obj\Debug\Aula04.Atividade01.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta\Aula04.Atividade01\Aula04.Atividade01\obj\Debug\Aula04.Atividade01.exe
+C:\Curso de C# - Impacta\Aula04.Atividade01\Aula04.Atividade01\obj\Debug\Aula04.Atividade01.pdb

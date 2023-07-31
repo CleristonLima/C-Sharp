@@ -1,0 +1,7 @@
+C:\Curso de C# - Impacta\Ativ06\Ativ06\bin\Debug\Ativ06.exe.config
+C:\Curso de C# - Impacta\Ativ06\Ativ06\bin\Debug\Ativ06.exe
+C:\Curso de C# - Impacta\Ativ06\Ativ06\bin\Debug\Ativ06.pdb
+C:\Curso de C# - Impacta\Ativ06\Ativ06\obj\Debug\Ativ06.csprojAssemblyReference.cache
+C:\Curso de C# - Impacta\Ativ06\Ativ06\obj\Debug\Ativ06.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta\Ativ06\Ativ06\obj\Debug\Ativ06.exe
+C:\Curso de C# - Impacta\Ativ06\Ativ06\obj\Debug\Ativ06.pdb

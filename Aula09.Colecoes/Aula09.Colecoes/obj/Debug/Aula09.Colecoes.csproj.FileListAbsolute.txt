@@ -1,0 +1,7 @@
+C:\Curso de C# - Impacta\Aula09.Colecoes\Aula09.Colecoes\bin\Debug\Aula09.Colecoes.exe.config
+C:\Curso de C# - Impacta\Aula09.Colecoes\Aula09.Colecoes\bin\Debug\Aula09.Colecoes.exe
+C:\Curso de C# - Impacta\Aula09.Colecoes\Aula09.Colecoes\bin\Debug\Aula09.Colecoes.pdb
+C:\Curso de C# - Impacta\Aula09.Colecoes\Aula09.Colecoes\obj\Debug\Aula09.Colecoes.csprojAssemblyReference.cache
+C:\Curso de C# - Impacta\Aula09.Colecoes\Aula09.Colecoes\obj\Debug\Aula09.Colecoes.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta\Aula09.Colecoes\Aula09.Colecoes\obj\Debug\Aula09.Colecoes.exe
+C:\Curso de C# - Impacta\Aula09.Colecoes\Aula09.Colecoes\obj\Debug\Aula09.Colecoes.pdb

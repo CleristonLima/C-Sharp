@@ -1,0 +1,7 @@
+C:\Curso de C# - Impacta\Aula11.Metodos\Aula11.Metodos\bin\Debug\Aula11.Metodos.exe.config
+C:\Curso de C# - Impacta\Aula11.Metodos\Aula11.Metodos\bin\Debug\Aula11.Metodos.exe
+C:\Curso de C# - Impacta\Aula11.Metodos\Aula11.Metodos\bin\Debug\Aula11.Metodos.pdb
+C:\Curso de C# - Impacta\Aula11.Metodos\Aula11.Metodos\obj\Debug\Aula11.Metodos.csprojAssemblyReference.cache
+C:\Curso de C# - Impacta\Aula11.Metodos\Aula11.Metodos\obj\Debug\Aula11.Metodos.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta\Aula11.Metodos\Aula11.Metodos\obj\Debug\Aula11.Metodos.exe
+C:\Curso de C# - Impacta\Aula11.Metodos\Aula11.Metodos\obj\Debug\Aula11.Metodos.pdb

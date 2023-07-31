@@ -1,0 +1,7 @@
+C:\Curso de C# - Impacta\Aula10.ProgOrientadaAObjetos\Aula10.ProgOrientadaAObjetos\obj\Debug\Aula10.ProgOrientadaAObjetos.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta\Aula10.ProgOrientadaAObjetos\Aula10.ProgOrientadaAObjetos\bin\Debug\Aula10.ProgOrientadaAObjetos.exe.config
+C:\Curso de C# - Impacta\Aula10.ProgOrientadaAObjetos\Aula10.ProgOrientadaAObjetos\bin\Debug\Aula10.ProgOrientadaAObjetos.exe
+C:\Curso de C# - Impacta\Aula10.ProgOrientadaAObjetos\Aula10.ProgOrientadaAObjetos\bin\Debug\Aula10.ProgOrientadaAObjetos.pdb
+C:\Curso de C# - Impacta\Aula10.ProgOrientadaAObjetos\Aula10.ProgOrientadaAObjetos\obj\Debug\Aula10.ProgOrientadaAObjetos.exe
+C:\Curso de C# - Impacta\Aula10.ProgOrientadaAObjetos\Aula10.ProgOrientadaAObjetos\obj\Debug\Aula10.ProgOrientadaAObjetos.pdb
+C:\Curso de C# - Impacta\Aula10.ProgOrientadaAObjetos\Aula10.ProgOrientadaAObjetos\obj\Debug\Aula10.ProgOrientadaAObjetos.csprojAssemblyReference.cache

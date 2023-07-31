@@ -1,0 +1,10 @@
+C:\Curso de C# - Impacta\Treinamento5.WindowsForms\Treinamento5.WindowsForms\bin\Debug\Treinamento5.WindowsForms.exe.config
+C:\Curso de C# - Impacta\Treinamento5.WindowsForms\Treinamento5.WindowsForms\bin\Debug\Treinamento5.WindowsForms.exe
+C:\Curso de C# - Impacta\Treinamento5.WindowsForms\Treinamento5.WindowsForms\bin\Debug\Treinamento5.WindowsForms.pdb
+C:\Curso de C# - Impacta\Treinamento5.WindowsForms\Treinamento5.WindowsForms\obj\Debug\Treinamento5.WindowsForms.csprojAssemblyReference.cache
+C:\Curso de C# - Impacta\Treinamento5.WindowsForms\Treinamento5.WindowsForms\obj\Debug\Treinamento5.WindowsForms.Form1.resources
+C:\Curso de C# - Impacta\Treinamento5.WindowsForms\Treinamento5.WindowsForms\obj\Debug\Treinamento5.WindowsForms.Properties.Resources.resources
+C:\Curso de C# - Impacta\Treinamento5.WindowsForms\Treinamento5.WindowsForms\obj\Debug\Treinamento5.WindowsForms.csproj.GenerateResource.cache
+C:\Curso de C# - Impacta\Treinamento5.WindowsForms\Treinamento5.WindowsForms\obj\Debug\Treinamento5.WindowsForms.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta\Treinamento5.WindowsForms\Treinamento5.WindowsForms\obj\Debug\Treinamento5.WindowsForms.exe
+C:\Curso de C# - Impacta\Treinamento5.WindowsForms\Treinamento5.WindowsForms\obj\Debug\Treinamento5.WindowsForms.pdb

@@ -1,0 +1,7 @@
+C:\Curso de C# - Impacta\Treinamento2.IF\Treinamento2.IF\obj\Debug\Treinamento2.IF.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta\Treinamento2.IF\Treinamento2.IF\bin\Debug\Treinamento2.IF.exe.config
+C:\Curso de C# - Impacta\Treinamento2.IF\Treinamento2.IF\bin\Debug\Treinamento2.IF.exe
+C:\Curso de C# - Impacta\Treinamento2.IF\Treinamento2.IF\bin\Debug\Treinamento2.IF.pdb
+C:\Curso de C# - Impacta\Treinamento2.IF\Treinamento2.IF\obj\Debug\Treinamento2.IF.csprojAssemblyReference.cache
+C:\Curso de C# - Impacta\Treinamento2.IF\Treinamento2.IF\obj\Debug\Treinamento2.IF.exe
+C:\Curso de C# - Impacta\Treinamento2.IF\Treinamento2.IF\obj\Debug\Treinamento2.IF.pdb

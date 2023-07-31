@@ -1,0 +1,7 @@
+C:\Curso de C# - Impacta\Treinamento3.Switch\Treinamento3.Switch\bin\Debug\Treinamento3.Switch.exe.config
+C:\Curso de C# - Impacta\Treinamento3.Switch\Treinamento3.Switch\bin\Debug\Treinamento3.Switch.exe
+C:\Curso de C# - Impacta\Treinamento3.Switch\Treinamento3.Switch\bin\Debug\Treinamento3.Switch.pdb
+C:\Curso de C# - Impacta\Treinamento3.Switch\Treinamento3.Switch\obj\Debug\Treinamento3.Switch.csprojAssemblyReference.cache
+C:\Curso de C# - Impacta\Treinamento3.Switch\Treinamento3.Switch\obj\Debug\Treinamento3.Switch.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta\Treinamento3.Switch\Treinamento3.Switch\obj\Debug\Treinamento3.Switch.exe
+C:\Curso de C# - Impacta\Treinamento3.Switch\Treinamento3.Switch\obj\Debug\Treinamento3.Switch.pdb

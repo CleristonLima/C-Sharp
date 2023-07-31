@@ -1,0 +1,7 @@
+C:\Curso de C# - Impacta\Treinamento4.Comando.de.Repeticao\Treinamento4.Comando.de.Repeticao\bin\Debug\Treinamento4.Comando.de.Repeticao.exe.config
+C:\Curso de C# - Impacta\Treinamento4.Comando.de.Repeticao\Treinamento4.Comando.de.Repeticao\bin\Debug\Treinamento4.Comando.de.Repeticao.exe
+C:\Curso de C# - Impacta\Treinamento4.Comando.de.Repeticao\Treinamento4.Comando.de.Repeticao\bin\Debug\Treinamento4.Comando.de.Repeticao.pdb
+C:\Curso de C# - Impacta\Treinamento4.Comando.de.Repeticao\Treinamento4.Comando.de.Repeticao\obj\Debug\Treinamento4.Comando.de.Repeticao.csprojAssemblyReference.cache
+C:\Curso de C# - Impacta\Treinamento4.Comando.de.Repeticao\Treinamento4.Comando.de.Repeticao\obj\Debug\Treinamento4.Comando.de.Repeticao.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta\Treinamento4.Comando.de.Repeticao\Treinamento4.Comando.de.Repeticao\obj\Debug\Treinamento4.Comando.de.Repeticao.exe
+C:\Curso de C# - Impacta\Treinamento4.Comando.de.Repeticao\Treinamento4.Comando.de.Repeticao\obj\Debug\Treinamento4.Comando.de.Repeticao.pdb

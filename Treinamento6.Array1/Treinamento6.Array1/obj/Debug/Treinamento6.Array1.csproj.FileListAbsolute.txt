@@ -1,0 +1,7 @@
+C:\Curso de C# - Impacta\Treinamento6.Array1\Treinamento6.Array1\bin\Debug\Treinamento6.Array1.exe.config
+C:\Curso de C# - Impacta\Treinamento6.Array1\Treinamento6.Array1\bin\Debug\Treinamento6.Array1.exe
+C:\Curso de C# - Impacta\Treinamento6.Array1\Treinamento6.Array1\bin\Debug\Treinamento6.Array1.pdb
+C:\Curso de C# - Impacta\Treinamento6.Array1\Treinamento6.Array1\obj\Debug\Treinamento6.Array1.csprojAssemblyReference.cache
+C:\Curso de C# - Impacta\Treinamento6.Array1\Treinamento6.Array1\obj\Debug\Treinamento6.Array1.csproj.CoreCompileInputs.cache
+C:\Curso de C# - Impacta\Treinamento6.Array1\Treinamento6.Array1\obj\Debug\Treinamento6.Array1.exe
+C:\Curso de C# - Impacta\Treinamento6.Array1\Treinamento6.Array1\obj\Debug\Treinamento6.Array1.pdb
